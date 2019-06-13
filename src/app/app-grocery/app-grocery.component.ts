@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { stringify } from 'querystring';
 
 @Component({
   selector: 'app-app-grocery',
@@ -7,9 +8,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppGroceryComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    
+   }
 
   ngOnInit() {
+    
   }
 
 }

@@ -12,7 +12,7 @@ import { AppGroceryComponent } from './app-grocery/app-grocery.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
