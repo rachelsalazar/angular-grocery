@@ -4,7 +4,7 @@ import { stringify } from 'querystring';
 @Component({
   selector: 'app-app-grocery',
   templateUrl: './app-grocery.component.html',
-  styleUrls: ['./app-grocery.component.css']
+  styleUrls: ['../../assets/css/bootstrap.min.css']
 })
 export class AppGroceryComponent implements OnInit {
 
